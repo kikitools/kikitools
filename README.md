@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💥 KikiTools - Simple Website DDoS Tester
 
-<!--
-**kikitools/kikitools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub](https://img.shields.io/badge/status-ready-brightgreen)
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![Legal](https://img.shields.io/badge/for%20educational%20use%20only-red)
 
-Here are some ideas to get you started:
+KikiTools adalah script buatan sendiri untuk melakukan **HTTP GET flood** ke web server milik sendiri.  
+Digunakan untuk **pembelajaran, pengujian, dan riset performa server pribadi.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Cara Jalankan
+
+```bash
+git clone https://github.com/kikitools/kikitools.git
+cd kikitools
+pip install -r requirements.txt
+python dTester
